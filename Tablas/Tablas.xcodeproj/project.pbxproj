@@ -13,6 +13,7 @@
 		9000873F232BCC0E00654B62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9000873E232BCC0E00654B62 /* Assets.xcassets */; };
 		90008742232BCC0E00654B62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90008740232BCC0E00654B62 /* LaunchScreen.storyboard */; };
 		9000874A232BD1AD00654B62 /* NewPokemonTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90008749232BD1AD00654B62 /* NewPokemonTableViewController.swift */; };
+		9000874C232BD53800654B62 /* ListPokemonTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9000874B232BD53800654B62 /* ListPokemonTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		90008741232BCC0E00654B62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90008743232BCC0E00654B62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		90008749232BD1AD00654B62 /* NewPokemonTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPokemonTableViewController.swift; sourceTree = "<group>"; };
+		9000874B232BD53800654B62 /* ListPokemonTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPokemonTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				90008737232BCC0900654B62 /* AppDelegate.swift */,
 				90008739232BCC0900654B62 /* ViewController.swift */,
 				9000873B232BCC0900654B62 /* Main.storyboard */,
+				9000874B232BD53800654B62 /* ListPokemonTableViewController.swift */,
 				9000873E232BCC0E00654B62 /* Assets.xcassets */,
 				90008740232BCC0E00654B62 /* LaunchScreen.storyboard */,
 				90008743232BCC0E00654B62 /* Info.plist */,
@@ -141,6 +144,7 @@
 				9000873A232BCC0900654B62 /* ViewController.swift in Sources */,
 				90008738232BCC0900654B62 /* AppDelegate.swift in Sources */,
 				9000874A232BD1AD00654B62 /* NewPokemonTableViewController.swift in Sources */,
+				9000874C232BD53800654B62 /* ListPokemonTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
